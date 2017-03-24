@@ -30,7 +30,7 @@ This document is a collection of links to advice and best practice for maintaini
 * **Use the workflow that is customary in your group**
 * Keep the `master` clean: use branches/forks for development, and pull requests to update `master` 
 * Delete branches/forks when done
-* Tag releases and submit to Zenodo to get a DOI
+* Tag releases and [submit to Zenodo](https://guides.github.com/activities/citable-code/) to get a DOI
 
 ![XKCD git commits](https://imgs.xkcd.com/comics/git_commit.png)
 
