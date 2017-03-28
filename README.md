@@ -53,3 +53,7 @@ alias.lol=log --graph --decorate --pretty=oneline --abbrev-commit
 alias.lola=log --graph --decorate --pretty=oneline --abbrev-commit --all
 alias.hist = log --graph --pretty=format:'%h %ad | %s%d [%an]' --date=short
 ```
+
+## Useful quotes
+
+> I have certain mantras that I use to guide my programming. They generally revolve around this theme: "Thinking is hard, and I'm not very good at it; every block of code should be simple and obvious, because if it makes me think, I'll probably screw it up and break something." - [Remy Porter](http://thedailywtf.com/articles/the-refactoring)
