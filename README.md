@@ -11,6 +11,7 @@ This document is a collection of links to advice and best practice for maintaini
 * One conceptual group per repository (the conceptual group size/scope may vary between projects)
 * Don't commit things that can be regenerated from the code
 * Use pre-commit hooks for code-checking (e.g. [`pylint`](https://www.pylint.org/), [`pep8`](https://pypi.python.org/pypi/pep8))
+  * [Shellcheck](https://github.com/koalaman/shellcheck) may be useful for `bash` scripts.
 * Use continuous integration where appropriate (e.g. [`TravisCI`](https://travis-ci.org/))
 * Use code quality integration where appropriate (e.g. [`Landscape.io`](https://landscape.io/))
 * Use test coverage integration where appropriate (e.g. [`codecov.io`](https://codecov.io/gh))
